@@ -1,6 +1,6 @@
-package com;
+package com.animals;
 
-import com.Animals;
+import com.animals.Animals;
 
 public class Cat extends Animals {
     @Override
